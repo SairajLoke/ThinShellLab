@@ -1,0 +1,109 @@
+{
+ "arch": "cpu",
+ "measured_iterations": 3,
+ "wall_s_per_iteration": 22.990919907887776,
+ "forward_s_per_iteration": 21.056229035059612,
+ "backward_s_per_iteration": 1.7856534322102864,
+ "stages": {
+  "scene.time_step": {
+   "s_per_iter": 21.056229035059612,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 429.71895989917573
+  },
+  "scene.newton_step": {
+   "s_per_iter": 13.764607111612955,
+   "calls_per_iter": 567.3333333333334,
+   "ms_per_call": 24.26193967969381
+  },
+  "linear solve (H.solve)": {
+   "s_per_iter": 12.698380072911581,
+   "calls_per_iter": 616.3333333333334,
+   "ms_per_call": 20.60310449904529
+  },
+  "scene.compute_residual_and_Hessian": {
+   "s_per_iter": 6.567102750142415,
+   "calls_per_iter": 567.3333333333334,
+   "ms_per_call": 11.575386751132342
+  },
+  "grad.transfer_grad": {
+   "s_per_iter": 1.7855487664540608,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 36.43977074396042
+  },
+  "scene.compute_energy": {
+   "s_per_iter": 1.3003931045532227,
+   "calls_per_iter": 1152.6666666666667,
+   "ms_per_call": 1.1281605881028536
+  },
+  "scene.push_down_pos": {
+   "s_per_iter": 0.4551843007405599,
+   "calls_per_iter": 683.3333333333334,
+   "ms_per_call": 0.6661233669374047
+  },
+  "scene.newton_step_init": {
+   "s_per_iter": 0.19607877731323242,
+   "calls_per_iter": 567.3333333333334,
+   "ms_per_call": 0.3456147661220313
+  },
+  "scene.linesearch_step": {
+   "s_per_iter": 0.126312255859375,
+   "calls_per_iter": 585.3333333333334,
+   "ms_per_call": 0.21579542572786162
+  },
+  "scene.calc_p_norm": {
+   "s_per_iter": 0.12012680371602376,
+   "calls_per_iter": 567.3333333333334,
+   "ms_per_call": 0.21173937200239207
+  },
+  "scene.norm_P": {
+   "s_per_iter": 0.10768707593282063,
+   "calls_per_iter": 567.3333333333334,
+   "ms_per_call": 0.18981270728464272
+  },
+  "scene.norm_F": {
+   "s_per_iter": 0.045847415924072266,
+   "calls_per_iter": 567.3333333333334,
+   "ms_per_call": 0.08081213147603807
+  },
+  "scene.action": {
+   "s_per_iter": 0.039346933364868164,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 0.8029986400993503
+  },
+  "scene.contact_analysis": {
+   "s_per_iter": 0.038276990254720054,
+   "calls_per_iter": 98.0,
+   "ms_per_call": 0.3905815332114291
+  },
+  "scene.timestep_finish": {
+   "s_per_iter": 0.021685123443603516,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 0.44255353966537786
+  },
+  "scene.timestep_init": {
+   "s_per_iter": 0.017718394597371418,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 0.36159988974227386
+  },
+  "scene.calc_vn": {
+   "s_per_iter": 0.013981978098551432,
+   "calls_per_iter": 98.0,
+   "ms_per_call": 0.14267324590358604
+  },
+  "grad.copy_pos": {
+   "s_per_iter": 0.005494594573974609,
+   "calls_per_iter": 50.0,
+   "ms_per_call": 0.10989189147949219
+  },
+  "grad.get_loss_fold": {
+   "s_per_iter": 0.00010466575622558594,
+   "calls_per_iter": 1.0,
+   "ms_per_call": 0.10466575622558594
+  },
+  "scene.compute_reward": {
+   "s_per_iter": 0.00010434786478678386,
+   "calls_per_iter": 1.0,
+   "ms_per_call": 0.10434786478678386
+  }
+ }
+}

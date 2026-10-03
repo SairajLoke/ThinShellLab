@@ -12,7 +12,8 @@ Hugging Face dataset `drakedrake/ppr-sim` (`tsl/`).
 | `run_folding_luisa.py` | Runs the unmodified `training/trajopt_folding.py` with LuisaScript export, limited to iterations 0/60/120, with the safeguard. |
 | `safeguard.py`, `test_safeguard.py` | Protects `best_traj.npy` / `plot_data.npy` from the export that deletes the output folder (see below). Test: `python tools/test_safeguard.py`. |
 | `mix_to_multiply.py` | For the `folding_2` look (blue/red crease-marker paper): rewrites the exported scenes' `mix { ... method "multiply" }` texture to `multiply { a, b }`, because the LuisaRender build used here has no `mix` plugin (it segfaults on it). Originals kept in `<dir>/scenes_orig/`. |
-| `render_scenes.sh`, `exr_to_png.py` | Renders the exported `scene_*.luisa` files with `luisa-render-cli` and makes an mp4. |
+| `render_scenes.sh`, `exr_to_png.py` | Renders the exported `scene_*.luisa` files with `luisa-render-cli` and makes an mp4. If `luisa-render-cli` crashes on a frame, the previous `render.exr` is converted again, so check for duplicate frames (`md5sum f*.png`) and re-render those. |
+| `profile_folding.py` | Per-stage timing of the Folding optimisation (forward Newton steps, linear solve, Hessian assembly, backward), using the Taichi preview renderer; iteration 0 (compilation) is excluded. Results on the RTX 4060: `profile_cuda.json` (14.0 s/iteration, of which the linear solve `H.solve` is 10.4 s) and `profile_cpu.json` (23.0 s/iteration). Run: `TI_ARCH=cuda python tools/profile_folding.py 4`. |
 
 ## Order
 ```

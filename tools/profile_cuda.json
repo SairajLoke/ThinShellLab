@@ -1,0 +1,109 @@
+{
+ "arch": "cuda",
+ "measured_iterations": 3,
+ "wall_s_per_iteration": 14.032645463943481,
+ "forward_s_per_iteration": 12.736601114273071,
+ "backward_s_per_iteration": 1.11030379931132,
+ "stages": {
+  "scene.time_step": {
+   "s_per_iter": 12.736601114273071,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 259.9306349851647
+  },
+  "linear solve (H.solve)": {
+   "s_per_iter": 10.375845829645792,
+   "calls_per_iter": 622.0,
+   "ms_per_call": 16.681424163417674
+  },
+  "scene.newton_step": {
+   "s_per_iter": 10.254315773646036,
+   "calls_per_iter": 573.0,
+   "ms_per_call": 17.895839046502683
+  },
+  "scene.compute_residual_and_Hessian": {
+   "s_per_iter": 2.039888381958008,
+   "calls_per_iter": 573.0,
+   "ms_per_call": 3.5600146281989664
+  },
+  "grad.transfer_grad": {
+   "s_per_iter": 1.1102145512898762,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 22.657439822242374
+  },
+  "scene.compute_energy": {
+   "s_per_iter": 0.6162522633870443,
+   "calls_per_iter": 1186.3333333333333,
+   "ms_per_call": 0.519459620725241
+  },
+  "scene.push_down_pos": {
+   "s_per_iter": 0.07787211736043294,
+   "calls_per_iter": 711.3333333333334,
+   "ms_per_call": 0.10947345458355147
+  },
+  "scene.calc_p_norm": {
+   "s_per_iter": 0.07289012273152669,
+   "calls_per_iter": 573.0,
+   "ms_per_call": 0.12720789307421762
+  },
+  "scene.newton_step_init": {
+   "s_per_iter": 0.05829016367594401,
+   "calls_per_iter": 573.0,
+   "ms_per_call": 0.10172803433847122
+  },
+  "scene.action": {
+   "s_per_iter": 0.05186955134073893,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 1.0585622722599781
+  },
+  "scene.norm_P": {
+   "s_per_iter": 0.040087381998697914,
+   "calls_per_iter": 573.0,
+   "ms_per_call": 0.06996052704833843
+  },
+  "scene.linesearch_step": {
+   "s_per_iter": 0.03226971626281738,
+   "calls_per_iter": 613.3333333333334,
+   "ms_per_call": 0.05261366781981095
+  },
+  "scene.norm_F": {
+   "s_per_iter": 0.02747654914855957,
+   "calls_per_iter": 573.0,
+   "ms_per_call": 0.04795209275490327
+  },
+  "scene.contact_analysis": {
+   "s_per_iter": 0.020131429036458332,
+   "calls_per_iter": 98.0,
+   "ms_per_call": 0.205422745269983
+  },
+  "scene.timestep_finish": {
+   "s_per_iter": 0.008513212203979492,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 0.17373902457101004
+  },
+  "scene.timestep_init": {
+   "s_per_iter": 0.007457892100016276,
+   "calls_per_iter": 49.0,
+   "ms_per_call": 0.1522018795921689
+  },
+  "scene.calc_vn": {
+   "s_per_iter": 0.0030554930369059243,
+   "calls_per_iter": 98.0,
+   "ms_per_call": 0.031178500376591065
+  },
+  "grad.copy_pos": {
+   "s_per_iter": 0.002122163772583008,
+   "calls_per_iter": 50.0,
+   "ms_per_call": 0.042443275451660156
+  },
+  "grad.get_loss_fold": {
+   "s_per_iter": 8.924802144368489e-05,
+   "calls_per_iter": 1.0,
+   "ms_per_call": 0.08924802144368489
+  },
+  "scene.compute_reward": {
+   "s_per_iter": 5.666414896647135e-05,
+   "calls_per_iter": 1.0,
+   "ms_per_call": 0.05666414896647135
+  }
+ }
+}
