@@ -1,0 +1,1588 @@
+[Taichi] version 1.6.0, llvm 15.0.4, commit f1c6fbbd, linux, python 3.9.25
+[Taichi] Starting on arch=x64
+Saving Path: ../imgs/traj_opt_pick_fold_6
+iter:  0
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+/root/ThinShellLab/code/engine/sparse_solver.py:103: VisibleDeprecationWarning: This function is deprecated and will be removed in a future release. Use the cupy.from_dlpack() array constructor instead.
+  x = from_dlpack(spsolve(H, b).toDlpack())
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+Begin thicken cloth...
+Num Vertices: (289, 3)
+Num Faces: (512, 3)
+Num Vertex Normals: (289, 3)
+Num Face Normals: (512, 3)
+Num Vertex UV: (289, 2)
+
+Begin subdivide cloth...
+Num Vertices: (578, 3)
+Num Faces: (1152, 3)
+Num Vertex Normals: (578, 3)
+Num Face Normals: (1152, 3)
+Num Vertex UV: (578, 2)
+
+Begin subdivide cloth...
+Num Vertices: (3458, 3)
+Num Faces: (6912, 3)
+Num Vertex Normals: (3458, 3)
+Num Face Normals: (6912, 3)
+Num Vertex UV: (3458, 2)
+
+Num Vertices: (20738, 3)
+Num Faces: (41472, 3)
+Num Vertex Normals: (20738, 3)
+Num Face Normals: (41472, 3)
+Num Vertex UV: (20738, 2)
+
+tot_time: 52.02420496940613
+total_reward: [0.004847619796704532]
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_0.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_1.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_2.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_3.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_4.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_5.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_6.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_7.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_8.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_9.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_10.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_11.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_12.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_13.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_14.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_15.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_16.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_17.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_18.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_19.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_20.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_21.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_22.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_23.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_24.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_25.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_26.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_27.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_28.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_29.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_30.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_31.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_32.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_33.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_34.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_35.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_36.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_37.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_38.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_39.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_40.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_41.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_42.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_43.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_44.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_45.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_46.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_47.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_48.luisa
+Export finished.
+Export to file: ../imgs/traj_opt_pick_fold_6/scene_49.luisa
+Export finished.
+done grad
+iter:  1
+tot_time: 28.620296239852905
+total_reward: [0.004847619796704532, 0.004850360307136579]
+done grad
+iter:  2
+tot_time: 29.112287521362305
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037]
+done grad
+iter:  3
+tot_time: 29.27833342552185
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605]
+done grad
+iter:  4
+tot_time: 29.591089248657227
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408]
+done grad
+iter:  5
+tot_time: 29.289607286453247
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217]
+done grad
+iter:  6
+tot_time: 29.680531978607178
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575]
+done grad
+iter:  7
+tot_time: 30.56139087677002
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692]
+done grad
+iter:  8
+tot_time: 30.19263792037964
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711]
+done grad
+iter:  9
+tot_time: 30.258798122406006
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733]
+done grad
+iter:  10
+tot_time: 30.46362590789795
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855]
+done grad
+iter:  11
+tot_time: 30.6567599773407
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401]
+done grad
+iter:  12
+tot_time: 29.501159191131592
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734]
+done grad
+iter:  13
+tot_time: 29.84019660949707
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077]
+done grad
+iter:  14
+tot_time: 29.56919574737549
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959]
+done grad
+iter:  15
+tot_time: 32.10267233848572
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939]
+done grad
+iter:  16
+tot_time: 34.57449245452881
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389]
+done grad
+iter:  17
+tot_time: 35.450196981430054
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925]
+done grad
+iter:  18
+tot_time: 34.37382936477661
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184]
+done grad
+iter:  19
+tot_time: 35.50029468536377
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713]
+done grad
+iter:  20
+tot_time: 35.04685354232788
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205]
+done grad
+iter:  21
+tot_time: 35.62473678588867
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342]
+done grad
+iter:  22
+tot_time: 35.23185729980469
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942]
+done grad
+iter:  23
+tot_time: 35.06488251686096
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221]
+done grad
+iter:  24
+tot_time: 35.30943298339844
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221, 0.004888267049388506]
+done grad
+iter:  25
+tot_time: 35.28137397766113
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221, 0.004888267049388506, 0.004889618638960074]
+done grad
+iter:  26
+tot_time: 35.10010838508606
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221, 0.004888267049388506, 0.004889618638960074, 0.004891094686600343]
+done grad
+iter:  27
+tot_time: 35.42175102233887
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221, 0.004888267049388506, 0.004889618638960074, 0.004891094686600343, 0.004892538837115461]
+done grad
+iter:  28
+tot_time: 35.90608835220337
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221, 0.004888267049388506, 0.004889618638960074, 0.004891094686600343, 0.004892538837115461, 0.004894065375119275]
+done grad
+iter:  29
+tot_time: 35.70886301994324
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221, 0.004888267049388506, 0.004889618638960074, 0.004891094686600343, 0.004892538837115461, 0.004894065375119275, 0.0048956633307421235]
+done grad
+iter:  30
+tot_time: 35.691067934036255
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221, 0.004888267049388506, 0.004889618638960074, 0.004891094686600343, 0.004892538837115461, 0.004894065375119275, 0.0048956633307421235, 0.0048971503261839204]
+done grad
+iter:  31
+tot_time: 36.300999879837036
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221, 0.004888267049388506, 0.004889618638960074, 0.004891094686600343, 0.004892538837115461, 0.004894065375119275, 0.0048956633307421235, 0.0048971503261839204, 0.004900104204028954]
+done grad
+iter:  32
+tot_time: 36.92199110984802
+total_reward: [0.004847619796704532, 0.004850360307136579, 0.004853070856344037, 0.004855393050292605, 0.004857833606948408, 0.004860359396218217, 0.0048629578656618575, 0.004865087086554692, 0.004867148722636711, 0.004869069385479733, 0.004870755262201855, 0.004872248034403401, 0.0048737180516502734, 0.004875108677427077, 0.004876562900397959, 0.004877990304478939, 0.004879317316793389, 0.004880524136076925, 0.004881730142135184, 0.004882911743466713, 0.0048839944275733205, 0.004885038912094342, 0.004886088336577942, 0.004887449582091221, 0.004888267049388506, 0.004889618638960074, 0.004891094686600343, 0.004892538837115461, 0.004894065375119275, 0.0048956633307421235, 0.0048971503261839204, 0.004900104204028954, 0.004900990279242828]
+done grad
+iter:  33

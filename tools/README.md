@@ -11,6 +11,7 @@ Hugging Face dataset `drakedrake/ppr-sim` (`tsl/`).
 | `make_folding_render_settings.py` | Writes `folding_render_settings.json`: the repo's settings plus the missing `folding` entry. |
 | `run_folding_luisa.py` | Runs the unmodified `training/trajopt_folding.py` with LuisaScript export, limited to iterations 0/60/120, with the safeguard. |
 | `safeguard.py`, `test_safeguard.py` | Protects `best_traj.npy` / `plot_data.npy` from the export that deletes the output folder (see below). Test: `python tools/test_safeguard.py`. |
+| `mix_to_multiply.py` | For the `folding_2` look (blue/red crease-marker paper): rewrites the exported scenes' `mix { ... method "multiply" }` texture to `multiply { a, b }`, because the LuisaRender build used here has no `mix` plugin (it segfaults on it). Originals kept in `<dir>/scenes_orig/`. |
 | `render_scenes.sh`, `exr_to_png.py` | Renders the exported `scene_*.luisa` files with `luisa-render-cli` and makes an mp4. |
 
 ## Order
@@ -40,6 +41,13 @@ The one run that was done was stopped at iteration 33 and had exported only at i
 5. `training/trajopt_lifting.py` has a relative import that fails when run as a script; run it as `python -m thinshelllab.training.trajopt_lifting`.
 6. Pick-Folding does not compile under taichi 1.7.3/1.7.4 (see `setup_env.sh`); use the 1.6.0 environment.
 7. The LuisaScript render settings only exist for some scene names (`pick`, `lift`, `folding_*`, ...); Folding and Lifting use `folding` and `lifting` in code.
+
+## Reproducing the reference look (close low camera, blue/red crease lines)
+```
+FOLD_SETTING=folding_2 FOLD_L=15 FOLD_ITERS=1 FOLD_KEEP=0 FOLD_LOAD=<path to best_traj.npy> TI_ARCH=cuda python tools/run_folding_luisa.py
+python tools/mix_to_multiply.py imgs/traj_opt_fold_15 && tools/render_scenes.sh imgs/traj_opt_fold_15 fold15_ref
+```
+(`run_folding_luisa.py` patches `process_curve_mix`, which otherwise crashes at `convert_luisa.py:506`.) These additions are not committed yet.
 
 ## Measured / not verified
 - Measured on one RTX 4060 machine: Folding about 22.7 to 27 s per iteration on CPU, about 12.8 s on the GPU backend (`TI_ARCH=cuda`,
